@@ -1,4 +1,4 @@
-package algorithms.implementation.applie_and_orange;
+package algorithms.implementation.apple_and_orange;
 
 import java.util.Scanner;
 
